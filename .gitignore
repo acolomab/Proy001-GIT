@@ -1,0 +1,5 @@
+# Se ignoran los ficheros dentro de log
+# además todos los ficheros llamados logfile
+
+logfile*
+log/*
