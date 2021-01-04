@@ -23,5 +23,5 @@
 ```
 Para cambiar el mensaje del commit se usa:
 
-$git commit --ammend -m "Mensaje"
+$git commit --amend -m "Mensaje"
 ```
