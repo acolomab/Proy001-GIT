@@ -1,4 +1,4 @@
-# Practica 4 - GIT 
+﻿# Practica 4 - GIT 
 ## Deshacer cambios
 
 1. Entra en el directorio de la práctica2 (practica2git) y a partir de ahí realizaremos esta práctica. Debes tener en cuenta que la práctica 3 debe estar realizada para hacer esta.
@@ -23,3 +23,4 @@
 10. Comprobar de nuevo el estado del repositorio.
 11. Deshacer los cambios realizados en el fichero contenido.txt para volver a la versión anterior del fichero.
 12. Volver a comprobar el estado del repositorio.
+FIN
